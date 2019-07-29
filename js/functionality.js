@@ -17,7 +17,6 @@ window.onload=function(){
     for(let x in tableCells)
     {
         tableCells[x].onmouseover=function(e){
-            console.log(e.target.style.width);
            var cellText=this.innerText;
            tooltip.innerText=cellText;
            tooltip.classList.add("tooltip-show");
