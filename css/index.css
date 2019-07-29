@@ -387,7 +387,7 @@ header{
     top:7.4%;
     right:0;
     width:20%;
-    transition: transform 500ms ease-in-out;
+    transition: transform 700ms ease-in-out;
 }
 .recent-activity-heading{
     background-color: #4b5765;
@@ -599,7 +599,7 @@ footer{
 *********************************************************************/
 .slide-left{
     transform: translateX(0%);
-    transition: transform 500ms ease-in-out;
+    transition: transform 700ms ease-in-out;
     
 }
 .popup{
